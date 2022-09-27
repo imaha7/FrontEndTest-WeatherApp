@@ -21,7 +21,7 @@ export function MainLayout({ children }: IMainLayout) {
           </a>
         </span>
         <p className="text-center text-sm text-gray-500 dark:text-textDarkSub mt-1">
-          Made by arcetros —{' '}
+          Made by Ilham Maulana Habibie —{' '}
           <a target="_blank" rel="noreferrer" href="https://github.com/imaha7/FrontEndTest-WeatherApp" className="underline">
             Github Repo
           </a>
